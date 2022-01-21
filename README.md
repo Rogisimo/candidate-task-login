@@ -14,7 +14,7 @@ This task is meant to evaluate candidates frontend (HTML, CSS, JS, React) knowle
 
 - Design should look as close to the given design, as possible;
 - Design must be responsive;
-- App should work modern browsers & IE11+;
+- App should work on modern browsers;
 - Encouraged to use pre-processors for CSS, but that's optional;
 - Email & password validation (not empty, valid email format);
 - Make a _fake_ api call to login the user (only valid credentials of email: `frontend@isawesome.com`, password: `cool`);
