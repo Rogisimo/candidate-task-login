@@ -27,3 +27,7 @@ This task is meant to evaluate candidates frontend (HTML, CSS, JS, React) knowle
 - If you know `redux`, use it;
 - We love clean code with good structure!
 - If you have questions, drop a line at alex@seemsneat.com.
+
+## Design
+
+Design is available at Figma - https://www.figma.com/file/PLaUEIwsJCAOrngPakIECc/FE-Test-Assignment%3A-Login-Screen?node-id=0%3A1
