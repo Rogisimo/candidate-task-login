@@ -6,7 +6,6 @@ This task is meant to evaluate candidates frontend (HTML, CSS, JS, React) knowle
 
 ## Instructions
 
-- Design file can be found at `assets/login.psd` in this repository;
 - Show us what you got 💪
 - Create a merge request and let us know
 
